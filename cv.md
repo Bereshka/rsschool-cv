@@ -1,5 +1,7 @@
 # Anastasiia Gudkov
 
+![My photo](/photo.jpg)
+
 ---
 
 ## Contact info
